@@ -1,0 +1,15 @@
+E:\Projetos\CodigoFuturo\.net\CadastroPessoas\CadastroPessoas\bin\Debug\net6.0\CadastroPessoas.exe
+E:\Projetos\CodigoFuturo\.net\CadastroPessoas\CadastroPessoas\bin\Debug\net6.0\CadastroPessoas.deps.json
+E:\Projetos\CodigoFuturo\.net\CadastroPessoas\CadastroPessoas\bin\Debug\net6.0\CadastroPessoas.runtimeconfig.json
+E:\Projetos\CodigoFuturo\.net\CadastroPessoas\CadastroPessoas\bin\Debug\net6.0\CadastroPessoas.dll
+E:\Projetos\CodigoFuturo\.net\CadastroPessoas\CadastroPessoas\bin\Debug\net6.0\CadastroPessoas.pdb
+E:\Projetos\CodigoFuturo\.net\CadastroPessoas\CadastroPessoas\obj\Debug\net6.0\CadastroPessoas.csproj.AssemblyReference.cache
+E:\Projetos\CodigoFuturo\.net\CadastroPessoas\CadastroPessoas\obj\Debug\net6.0\CadastroPessoas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\CodigoFuturo\.net\CadastroPessoas\CadastroPessoas\obj\Debug\net6.0\CadastroPessoas.AssemblyInfoInputs.cache
+E:\Projetos\CodigoFuturo\.net\CadastroPessoas\CadastroPessoas\obj\Debug\net6.0\CadastroPessoas.AssemblyInfo.cs
+E:\Projetos\CodigoFuturo\.net\CadastroPessoas\CadastroPessoas\obj\Debug\net6.0\CadastroPessoas.csproj.CoreCompileInputs.cache
+E:\Projetos\CodigoFuturo\.net\CadastroPessoas\CadastroPessoas\obj\Debug\net6.0\CadastroPessoas.dll
+E:\Projetos\CodigoFuturo\.net\CadastroPessoas\CadastroPessoas\obj\Debug\net6.0\refint\CadastroPessoas.dll
+E:\Projetos\CodigoFuturo\.net\CadastroPessoas\CadastroPessoas\obj\Debug\net6.0\CadastroPessoas.pdb
+E:\Projetos\CodigoFuturo\.net\CadastroPessoas\CadastroPessoas\obj\Debug\net6.0\CadastroPessoas.genruntimeconfig.cache
+E:\Projetos\CodigoFuturo\.net\CadastroPessoas\CadastroPessoas\obj\Debug\net6.0\ref\CadastroPessoas.dll
